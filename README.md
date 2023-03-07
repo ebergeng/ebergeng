@@ -5,7 +5,7 @@ I am currently a front-end student at Noroff School of Technology and Digital Me
 mine foretrukkede språk er:
 
 ![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
-![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
+![javascript-logo-number-angularjs-node-javascript-logo-11563241338go76tq0nxz](https://user-images.githubusercontent.com/59417456/223382336-7157e07f-bd8c-473f-aed9-ee5bac5f420c.png)
 ![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
 ![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
 
