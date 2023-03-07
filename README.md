@@ -3,6 +3,7 @@
 I am currently a front-end student at Noroff School of Technology and Digital Media while also holding a 40% position as a teacher in concept development and programming at a high school
 
 mine foretrukkede språk er:
+
 ![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223383577-3d678d8b-65b3-4da5-b29e-85e44318d3f7.png)
 ![javascript](https://user-images.githubusercontent.com/59417456/223383590-b614a1df-1991-4c52-a68a-84a042d2ee29.png)
 
