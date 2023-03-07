@@ -3,11 +3,11 @@
 I am currently a front-end student at Noroff School of Technology and Digital Media while also holding a 40% position as a teacher in concept development and programming at a high school
 
 mine foretrukkede språk er:
-![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png) Python
-- JavaScript
 
-- HTML
-- CSS
+![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
+![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
+![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
+![Python-logo-notext svg](https://user-images.githubusercontent.com/59417456/223381548-a1ebcaad-6410-4457-b74d-cddf6afc7431.png)
 
 <!--
 **ebergeng/ebergeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
