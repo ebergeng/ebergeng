@@ -3,13 +3,13 @@
 I am currently a front-end student at Noroff School of Technology and Digital Media while also holding a 40% position as a teacher in concept development and programming at a high school. 
 From time to time, I need to disconnect from the tech world, so I also have a small hobby-based company where I produce annexes, lean-tos, and benches using old traditional log cabin techniques
 
-🔭 I’m currently working on way to much
+🔭 I’m currently working on way to much while my student are currently working on not enough. 
 
-🌱 I’m currently learning ablout useing Wordpress as a headless cms, while my student are currently working on FLASK with python.
+🌱 I’m currently learning ablout useing Wordpress as a headless cms, while my student are currently learning FLASK with python.
 
 💬 Ask me about anything!
 
-📫 How to reach me: Erlend at bergeng-laft dot no  
+📫 How to reach me: erlber at kvn dot no  
 
 ⚡ Fun fact: I have a fine from 2012 in Australia that I have not yet paid :(
 
